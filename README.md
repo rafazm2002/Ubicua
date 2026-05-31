@@ -1,4 +1,5 @@
 # Jukebox Inteligente con Análisis de Movimiento
+### Pablo Vivancos Vera, Rafael Zamora Martínez
 
 ## Descripción General
 
